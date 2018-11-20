@@ -1,0 +1,9 @@
+col 1 - Number of times pregnant.
+col 2 - Plasma glucose concentration.
+col 3 - Diastolic blood presure in mm.
+col 4 - Triceps skin fold thickness in mm.
+col 5 - 2-hour serun insulin in mu U/ml.
+col 6 - Body mass index.
+col 7 - Diabetes pedigree function.
+col 8 - Age in years.
+col 9 - labels
