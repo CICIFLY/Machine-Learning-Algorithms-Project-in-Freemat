@@ -1,1 +1,2 @@
-
+This project take pima diabete data for logistic regression.  pima-info.txt file is the description for pima dataset. 
+sigmoid.m and logCost.m are two functions used in logistic_pima.m for convenient purpose. 
