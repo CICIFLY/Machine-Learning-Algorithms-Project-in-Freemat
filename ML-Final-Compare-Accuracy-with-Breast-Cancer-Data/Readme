@@ -1,0 +1,3 @@
+This is the final for my machine learning class. The project is to compare the accuracies of linear regression, 
+nonlinear regression,logistic regression and decision tree. Decision Tree turns out to be the best model for this 
+particular dataset. The workflows,accuracy results for four models can be found in the summary.    
